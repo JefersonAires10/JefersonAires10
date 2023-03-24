@@ -4,7 +4,7 @@
 
 •📚 Universidade Federal do Ceará - 3° semestre
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_jeferson.14?igshid=YmMyMTA2M2Y=)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jefersonaires14?igshid=YmMyMTA2M2Y=)
 
 ![Jeferson GitHub stats](https://github-readme-stats.vercel.app/api?username=JefersonAires10&show_icons=true&theme=dracula)
 
