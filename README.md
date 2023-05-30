@@ -6,11 +6,17 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jefersonaires14?igshid=YmMyMTA2M2Y=)
 
-<div>
-  <a href = "github.com/JefersonAires10" >
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JefersonAires10&show_icons=true&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JefersonAires10&layout=compact&theme=dracula"/>
-</div>
+<picture>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=JefersonAires10&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=JefersonAires10&show_icons=true" />
+</picture>
 
 ### Tecnologias em estudo
 <div style="display: inline_block">
